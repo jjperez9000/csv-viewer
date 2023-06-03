@@ -10,7 +10,7 @@
 			"type": "extensionHost",
 			"request": "launch",
 			"args": [
-				"--extensionDevelopmentPath=${workspaceFolder}"
+				"--extensionDevelopmentPath=${workspaceFolder}", "--new-window", "/Users/jjperez/Developer/testing/csvs", "/Users/jjperez/Developer/testing/csvs/test.csv"
 			],
 			"outFiles": [
 				"${workspaceFolder}/dist/**/*.js"
